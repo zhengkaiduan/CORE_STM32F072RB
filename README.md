@@ -1,0 +1,2 @@
+# CORE_STM32F072RB
+ STM32F072RBT6 minisize board 
